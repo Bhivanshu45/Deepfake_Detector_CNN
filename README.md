@@ -48,7 +48,15 @@ The project description identifies the following datasets:
 
 We incorporate Stable Diffusion generation code and prompts from:
 
-[RealFaces_w_StableDiffusion](https://github.com/LucaCorvitto/RealFaces_w_StableDiffusion)
+## 📥 Dataset Access
+
+The dataset used for this project can be accessed through the following Google Drive link:
+
+🔗 **[Download Dataset from Google Drive](https://drive.google.com/drive/folders/10-n9jY3USb5O_2bh4yUpo1IRPWxe1RIA?usp=drive_link)**
+
+Please ensure that the dataset is downloaded and organized according to the expected directory structure before running training or evaluation scripts.
+
+> Note: Dataset access may require Google account authentication. Please follow the original dataset licenses and usage restrictions.
 
 The downloaded test split images are stored locally under:
 
